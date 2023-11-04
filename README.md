@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](LICENSE)
 
-![gorsel](https://picsum.photos/id/237/200/300)
+![gorsel](github.png)
